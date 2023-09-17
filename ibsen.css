@@ -1,0 +1,28 @@
+.speech{
+    color:black;font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.direction{
+    color:black;
+    font-size:20px;
+font-family: 'Times New Roman', Times, serif;
+background-color:lightblue;
+}
+
+.direction:hover {
+    background-color:aquamarine;
+  }
+
+.name {
+    color:brown;
+}
+
+.ENGSTRAND {
+   color:darkorchid; font-size: 30px;
+}
+
+.REGINA {
+    color:darkorange; font-size: 30px;
+}
+
