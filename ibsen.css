@@ -22,8 +22,17 @@ background-color:lightblue;
    color:darkorchid; font-size: 30px;
 }
 
+.ENGSTRAND:hover{
+    text-shadow: 2px 2px 5px blueviolet;
+    border-style: outset;
+}
+
 .REGINA {
     color:darkorange; font-size: 30px;
+}
+.REGINA:hover{
+    text-shadow: 2px 2px 5px blueviolet;
+    border-style: outset;
 }
 
 table, td {  
