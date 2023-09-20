@@ -57,3 +57,18 @@ table, td {
     border-style: outset;
 }
 
+.navbar{
+    margin:0;
+    padding:0
+}
+
+.navbar li{
+    float:left;
+    color:black;
+    background-color: lightpink;
+}
+
+.navbar a{
+    display:block;
+    padding: 20px;
+}
